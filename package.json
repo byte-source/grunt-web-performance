@@ -1,0 +1,23 @@
+{
+    "name": "grunt-web-performance",
+    "description": "Grunt plugin to analyse the performace of multiple URLs using Phantomas",
+    "version":"0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vikas-kumar-singh/grunt-web-performance.git"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/vikas-kumar-singh/grunt-web-performance",
+    "author": "Vikas Kumar Singh/Manish Shekhawat",
+    "dependencies": {
+        "grunt": "^1.0.1",
+        "grunt-phantomas": "^0.13.0"
+    },
+    "keywords": [
+    "gruntplugin",
+    "grunt-web-performance",
+    "analysis",
+    "report",
+    "Phantomas"
+  ]
+}
